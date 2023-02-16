@@ -14,6 +14,8 @@ import numpy as np
 
 import aplpy
 
+from . import plotting
+
 # Extract RA/Dec info from ds9 region file
 # ------------------------------------------------------
 def readregion(name):
