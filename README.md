@@ -1,4 +1,5 @@
 # galdens
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13928333.svg)](https://doi.org/10.5281/zenodo.13928333)
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-31015/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![stability-alpha](https://img.shields.io/badge/stability-alpha-f4d03f.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#alpha)
